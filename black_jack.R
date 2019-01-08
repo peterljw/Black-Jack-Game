@@ -163,7 +163,7 @@ play_alotof_blackjack <- function(){
 
 #--------------------------------------------------------------------------------
 
-#Game time babe!
+#Game time!
 record <- play_alotof_blackjack()
 #Match Summary
 #table(record)
